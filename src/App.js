@@ -10,6 +10,8 @@ import Featured from './components/Featured';
 import VenueNfo from './components/venueNfo';
 import Highlights from './components/highlights';
 import Princing from './components/pricing';
+
+
 import Location from './components/location';
 
 
@@ -17,6 +19,8 @@ const App = () => {
 
   return (
     <div className="App"> 
+
+
 
     <Header/>
   
